@@ -1,4 +1,4 @@
-# Dijstra Single Source Shortest Path
+# Dijkstra Single Source Shortest Path
 
 ## Requirements
 
